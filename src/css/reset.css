@@ -1,4 +1,12 @@
 /* Reset styles */
+body {
+background-image: url('../img/technology-human-touch-background-modern-remake-creation-adam.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
 h1,
 h2,
 h3,
